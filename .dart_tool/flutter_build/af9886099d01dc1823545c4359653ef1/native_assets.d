@@ -1,0 +1,1 @@
+ /home/blackai/Desktop/pos_desktop/flutter_desktop_pos/.dart_tool/flutter_build/af9886099d01dc1823545c4359653ef1/native_assets.yaml: 

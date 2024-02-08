@@ -7,6 +7,7 @@
 /home/blackai/Desktop/pos_desktop/flutter_desktop_pos/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
 /home/blackai/Desktop/pos_desktop/flutter_desktop_pos/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
 /home/blackai/Desktop/pos_desktop/flutter_desktop_pos/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/blackai/Desktop/pos_desktop/flutter_desktop_pos/build/linux/x64/debug/bundle/data/flutter_assets/assets/images/malt.png
 /home/blackai/Desktop/pos_desktop/flutter_desktop_pos/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
 /home/blackai/Desktop/pos_desktop/flutter_desktop_pos/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
 /home/blackai/Desktop/pos_desktop/flutter_desktop_pos/build/linux/x64/debug/bundle/data/flutter_assets/version.json

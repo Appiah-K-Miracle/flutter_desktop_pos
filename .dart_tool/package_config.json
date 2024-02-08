@@ -27,7 +27,7 @@
     },
     {
       "name": "collection",
-      "rootUri": "file:///home/blackai/.pub-cache/hosted/pub.dev/collection-1.17.2",
+      "rootUri": "file:///home/blackai/.pub-cache/hosted/pub.dev/collection-1.18.0",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
@@ -59,7 +59,7 @@
       "name": "flutter",
       "rootUri": "file:///home/blackai/mob_dev/flutter/packages/flutter",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.2"
     },
     {
       "name": "flutter_lints",
@@ -71,7 +71,7 @@
       "name": "flutter_test",
       "rootUri": "file:///home/blackai/mob_dev/flutter/packages/flutter_test",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.2"
     },
     {
       "name": "get",
@@ -117,7 +117,7 @@
     },
     {
       "name": "meta",
-      "rootUri": "file:///home/blackai/.pub-cache/hosted/pub.dev/meta-1.9.1",
+      "rootUri": "file:///home/blackai/.pub-cache/hosted/pub.dev/meta-1.10.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -185,7 +185,7 @@
       "name": "sky_engine",
       "rootUri": "file:///home/blackai/mob_dev/flutter/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.2"
     },
     {
       "name": "source_span",
@@ -195,15 +195,15 @@
     },
     {
       "name": "stack_trace",
-      "rootUri": "file:///home/blackai/.pub-cache/hosted/pub.dev/stack_trace-1.11.0",
+      "rootUri": "file:///home/blackai/.pub-cache/hosted/pub.dev/stack_trace-1.11.1",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
     {
       "name": "stream_channel",
-      "rootUri": "file:///home/blackai/.pub-cache/hosted/pub.dev/stream_channel-2.1.1",
+      "rootUri": "file:///home/blackai/.pub-cache/hosted/pub.dev/stream_channel-2.1.2",
       "packageUri": "lib/",
-      "languageVersion": "2.14"
+      "languageVersion": "2.19"
     },
     {
       "name": "string_scanner",
@@ -219,9 +219,9 @@
     },
     {
       "name": "test_api",
-      "rootUri": "file:///home/blackai/.pub-cache/hosted/pub.dev/test_api-0.6.0",
+      "rootUri": "file:///home/blackai/.pub-cache/hosted/pub.dev/test_api-0.6.1",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "3.0"
     },
     {
       "name": "typed_data",
@@ -237,9 +237,9 @@
     },
     {
       "name": "web",
-      "rootUri": "file:///home/blackai/.pub-cache/hosted/pub.dev/web-0.1.4-beta",
+      "rootUri": "file:///home/blackai/.pub-cache/hosted/pub.dev/web-0.3.0",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "3.2"
     },
     {
       "name": "win32",
@@ -260,7 +260,7 @@
       "languageVersion": "3.1"
     }
   ],
-  "generated": "2023-12-16T22:20:30.611022Z",
+  "generated": "2024-02-08T12:48:31.528182Z",
   "generator": "pub",
-  "generatorVersion": "3.1.0"
+  "generatorVersion": "3.2.6"
 }
